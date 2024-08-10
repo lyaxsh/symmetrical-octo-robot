@@ -15,9 +15,9 @@ from selenium.webdriver.support import expected_conditions as EC
 app = Flask(__name__)
 
 # Define your API ID and hash from my.telegram.org
-api_id = 16553273
-api_hash = '92595a750f923a15cf1fb26dd69058c2'
-bot_token = '7424863149:AAGg9f1IovYe_ACMHhw8pXwXm4-PbNmvTyw'
+api_id = hakur
+api_hash = 'hello'
+bot_token = 'xxx:AAGg9f1IovYe_ACvOmMHhw8pXwXm4-PbNmvTyw'
 
 # Path to the ChromeDriver executable
 chromedriver_path = '/usr/local/bin/chromedriver'
